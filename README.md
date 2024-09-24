@@ -24,7 +24,7 @@ A Python script to export data from a Qdrant collection to a CSV file. This scri
 1. **Clone the Repository**
 
    ```
-   git clone https://github.com/yourusername/qdrant-csv-exporter.git
+   git clone https://github.com/juceza/qdrant-csv-exporter.git
    cd qdrant-csv-exporter
    ```
 
